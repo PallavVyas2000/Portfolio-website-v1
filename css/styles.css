@@ -1,13 +1,13 @@
 body {
   margin: 0;
   text-align: center;
-  font-family: 'Merriweather', serif;
-  color: #40514E;
+  font-family: "Merriweather", serif;
+  color: #40514e;
 }
 
 hr {
   margin: 100px auto 100px auto;
-  border-color: #C8C6C6;
+  border-color: #c8c6c6;
   height: 2px;
   width: 5%;
   border-style: dotted none none none;
@@ -19,19 +19,19 @@ p {
 }
 
 a {
-  color: #11999E;
-  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
   margin: 10px 20px;
   text-decoration: none;
   font-style: oblique;
 }
 
 a:hover {
-  color: #EAF6F6;
+  color: #eaf6f6;
 }
 
 .top-container {
-  background-color: #E4F9F5;
+  background-color: #e4f9f5;
   padding-top: 200px;
   position: relative;
 }
@@ -44,11 +44,11 @@ a:hover {
   padding: 60px 0 20px;
   margin-top: 50px;
   margin: 1;
-  background-color: #66BFBF;
+  background-color: #66bfbf;
 }
 
 .bottom-container p {
-  color: #EAF6F6;
+  color: #eaf6f6;
   font-size: 0.75rem;
   margin: 20px 0;
 }
@@ -101,6 +101,12 @@ a:hover {
   margin-left: 30px;
 }
 
+.react-img {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
 .mountain-img img {
   width: 100%;
   /* object-fit: cover; */
@@ -115,44 +121,44 @@ a:hover {
 }
 
 .btn {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: bold;
-  color: #EAF6F6;
+  color: #eaf6f6;
   font-size: 15px;
-  text-shadow: 1px 1px 0 #7CACDE;
-  box-shadow: 1px 1px 1px #BEE2F9;
+  text-shadow: 1px 1px 0 #7cacde;
+  box-shadow: 1px 1px 1px #bee2f9;
   padding: 9px 25px;
   border-radius: 40px;
-  border: 2px solid #66BFBF;
-  background: #66BFBF;
+  border: 2px solid #66bfbf;
+  background: #66bfbf;
 }
 
 .btn:hover {
-  border: #9C0F48;
+  border: #9c0f48;
   color: black;
-  background: #E4F9F5;
+  background: #e4f9f5;
 }
 
 h1 {
   margin: 50px auto 0 auto;
   font-size: 562.5%;
-  font-family: 'Sacramento', cursive;
-  color: #66BFBF;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
   line-height: 2;
 }
 
 h2 {
-  font-family: 'Montserrat', sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
-  color: #66BFBF;
+  color: #66bfbf;
 }
 
 h3 {
-  font-family: 'Montserrat', sans-serif;
-  color: #11999E;
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
 }
 
 a {
-  color: #11999E;
+  color: #11999e;
 }
